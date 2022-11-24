@@ -1,0 +1,16 @@
+{
+  "name": "runner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RxDS",
+  "license": "",
+  "dependencies": {
+    "buffer-indexof-polyfill": "^1.0.1",
+    "long": "^4.0.0",
+    "node-uuid": "^1.4.8"
+  }
+}
